@@ -1,11 +1,43 @@
 
+body{
+    margin: 0;
+}
+
+
+a{
+    color: #000000;
+}
+a:visited{
+    color: #000000;
+}
+a:hover{
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+header{
+    background-color: chocolate;
+    padding: 1px 0;
+}
+
+header nav{
+    text-align: right;
+    padding-right: 10px;
+}
+
+header nav ul li{
+    display: inline;
+    padding: 0 5px;
+}
+
+
+header nav ul li a{
+    text-decoration: none;
+}
+
 .footer{
     background-color: aqua;
     min-height: 50px;
     width: 100%;
     text-align: center;
-}
-
-.header{
-    background-color: chocolate;
 }
