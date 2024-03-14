@@ -56,6 +56,23 @@ main{
 }
 
 
+/* CONTACTO */
+
+#formContacto div{
+    margin-bottom: 10px;
+}
+
+#formContacto div input,
+#formContacto div textarea{
+    max-width: 300px;
+    width: 100%;
+}
+
+#formContacto div textarea{
+    resize: none;
+}
+
+
 /* FOOTER */
 
 footer{
