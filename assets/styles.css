@@ -40,9 +40,20 @@ header nav ul li a{
 }
 
 
+/* MAIN */
+
+main{
+    margin: 0;
+    padding: 20px;
+}
 
 
 
+/* SUCURSALES */
+
+.sucursales td{
+    padding: 0 15px;
+}
 
 
 /* FOOTER */
