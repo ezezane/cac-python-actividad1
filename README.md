@@ -21,3 +21,7 @@ las tablas y listas se verán en las recetas
 * algún contenido en la HOME
 
 * algún contenido en la sección ACERCA DE
+
+* MEJORAS ESTÉTICAS
+    * reemplazar los logos de las redes sociales del footer por íconos de font awesome
+    * cambiar la tipografía con alguna de google fonts
