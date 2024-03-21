@@ -27,4 +27,3 @@ las tablas y listas se verán en las recetas
 ---
 
 * MEJORAS ESTÉTICAS
-    * cambiar la tipografía con alguna de google fonts

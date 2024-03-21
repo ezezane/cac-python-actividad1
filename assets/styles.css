@@ -1,3 +1,14 @@
+/* FONTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+*{
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
 /* GENERAL */
 body{
     margin: 0;
