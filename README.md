@@ -1,6 +1,7 @@
 # cac-python-actividad1
 primera actividad para ir armando un sitio de recetas de cocina
 
+---
 
 ## Actividad Práctica 02 - Tablas y Listas
 las tablas y listas se verán en las recetas
@@ -10,6 +11,7 @@ las tablas y listas se verán en las recetas
 * el formulario estará en la sección CONTACTO
 * el iframe se verá en la sección SUCURSALES
 
+---
 
 ### TODO
 * sección RECETAS
@@ -22,6 +24,7 @@ las tablas y listas se verán en las recetas
 
 * algún contenido en la sección ACERCA DE
 
+---
+
 * MEJORAS ESTÉTICAS
-    * reemplazar los logos de las redes sociales del footer por íconos de font awesome
     * cambiar la tipografía con alguna de google fonts
